@@ -1,0 +1,31 @@
+Protobuf
+
+http://aychedee.com/2015/09/18/writing-a-real-time-bidder-with-go/
+Channel design
+https://blog.golang.org/context
+
+Request
+Max mind
+Use URLs everywhere
+Aerospike
+https://gowalker.org/github.com/tomcatzh/asynchttpclient
+Adapter
+Cookie
+Adx
+Gorm 
+https://github.com/natefinch/lumberjack/tree/v2.0
+Entities
+Create schema data and force 
+Log
+Request
+Timeout
+Pipelining
+Keepalive
+Nurl cache
+Adminport
+https://github.com/ian-kent/go-log
+Etcd
+Etcd election of b
+Partial vendoring
+Monads
+Followup to http://aychedee.com/2015/09/18/writing-a-real-time-bidder-with-go/ on pacer.

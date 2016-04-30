@@ -1,0 +1,6 @@
+{
+   "LogDirectory" : "/opt/ciorba/log",
+   "Port" : 10000,
+   "Exchanges" : {},
+   "Geo" : { "MaxMindDir" : "/opt/ciorba/data/geo/maxmind" }
+}
